@@ -68,6 +68,15 @@ header {
     margin-right: 20px;
   }
 
+  test {
+
+    padding: 3px 5px;
+    outline: none;
+    width: 50%;
+    margin-right: 5px;
+
+  }
+
   button {
     background-color: #2ecc71;
     border: none;
@@ -76,6 +85,8 @@ header {
     cursor: pointer;
     color: white;
   }
+
+ 
 
   button:hover {
     background-color: #27ae60;
